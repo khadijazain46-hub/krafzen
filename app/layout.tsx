@@ -5,9 +5,9 @@ import { Analytics } from '@vercel/analytics/next'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'Scalable Engineering CAD & Design By AI and Human Intelligence',
-  description: 'Scalable Engineering CAD & Design By AI and Human Intelligence',
-  generator: 'Scalable Engineering CAD & Design By AI and Human Intelligence',
+  title: 'KRAFZEN-Scalable Engineering CAD & Design By AI and Human Intelligence',
+  description: 'KRAFZEN-Scalable Engineering CAD & Design By AI and Human Intelligence',
+  generator: 'KRAFZEN-Scalable Engineering CAD & Design By AI and Human Intelligence',
 }
 
 export default function RootLayout({
