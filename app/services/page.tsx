@@ -351,7 +351,7 @@ export default function ServicesPage() {
       <header className="border-b border-[#171717] px-6 py-4">
         <div className="max-w-7xl mx-auto flex items-center justify-between">
           <div className="w-40 md:w-48">
-            <KrafzenLogo className="w-full h-auto" />
+            <@zenLogo className="w-full h-auto" />
           </div>
 
           <nav className="hidden md:flex items-center space-x-8">
@@ -771,10 +771,10 @@ export default function ServicesPage() {
           <div className="grid md:grid-cols-3 gap-8">
             <div>
               <div className="mb-4 w-32">
-                <KrafzenLogo className="w-full h-auto" />
+                <@zenLogo className="w-full h-auto" />
               </div>
               <p className="text-[#d9d9d9] text-sm">
-                Krafzen is an engineering and design outsourcing company that combines artificial intelligence with
+                @zen is an engineering and design outsourcing company that combines artificial intelligence with
                 expert human teams to deliver precise, affordable, and fast project execution — from CAD drafting and
                 BIM to oil & gas design and civil engineering.
               </p>
@@ -825,12 +825,12 @@ export default function ServicesPage() {
                   <Mail className="w-5 h-5 text-[#d9d9d9] mt-0.5 flex-shrink-0" />
                   <div>
                     <p>info@krafzen.com</p>
-                    <p>khadija@krafzen.com</p>
+                    <p>@</p>
                   </div>
                 </div>
                 <div className="flex items-center space-x-3">
                   <Phone className="w-5 h-5 text-[#d9d9d9] flex-shrink-0" />
-                  <p>+1 917 - 924 - 8393</p>
+                  <p>@</p>
                 </div>
               </div>
               <div className="mt-6">
