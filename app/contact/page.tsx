@@ -58,7 +58,7 @@ export default function ContactPage() {
         from_email: formData.email,
         phone: formData.phone,
         message: formData.message,
-        to_email: "khadija@krafzen.com",
+        to_email: "@",
       }
 
       await window.emailjs.send(
@@ -302,12 +302,12 @@ export default function ContactPage() {
                   <Mail className="w-5 h-5 text-[#d9d9d9] flex-shrink-0" />
                   <div className="text-[#d9d9d9]">
                     <p>info@krafzen.com</p>
-                    <p>khadija@krafzen.com</p>
+                    <p>@</p>
                   </div>
                 </div>
                 <div className="flex items-center space-x-3">
                   <Phone className="w-5 h-5 text-[#d9d9d9] flex-shrink-0" />
-                  <p className="text-[#d9d9d9]">+1 917 - 924 - 8393</p>
+                  <p className="text-[#d9d9d9]">@</p>
                 </div>
               </div>
 
