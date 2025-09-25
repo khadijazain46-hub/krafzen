@@ -280,12 +280,12 @@ export default function IndustriesPage() {
                   <Mail className="w-5 h-5 text-[#d9d9d9] mt-0.5 flex-shrink-0" />
                   <div>
                     <p>info@krafzen.com</p>
-                    <p>khadija@krafzen.com</p>
+                    <p>@</p>
                   </div>
                 </div>
                 <div className="flex items-center space-x-3">
                   <Phone className="w-5 h-5 text-[#d9d9d9] flex-shrink-0" />
-                  <p>+1 917 - 924 - 8393</p>
+                  <p>@</p>
                 </div>
               </div>
               <div className="mt-6">
