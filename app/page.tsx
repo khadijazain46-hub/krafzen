@@ -1220,7 +1220,7 @@ Our extensive talent pool ensures we can assemble the perfect team for your spec
                     <p>Casper, Wyoming 82609 U.S.</p>
                   </div>
                 </div>
-                <div className="flex items-start space-x-3">
+                {/* <div className="flex items-start space-x-3">
                   <Mail className="w-5 h-5 text-[#d9d9d9] mt-0.5 flex-shrink-0" />
                   <div>
                     <p>info@krafzen.com</p>
@@ -1230,7 +1230,7 @@ Our extensive talent pool ensures we can assemble the perfect team for your spec
                 <div className="flex items-center space-x-3">
                   <Phone className="w-5 h-5 text-[#d9d9d9] flex-shrink-0" />
                   <p>@</p>
-                </div>
+                </div> */}
               </div>
               <div className="mt-6">
                 <SocialIcons />
