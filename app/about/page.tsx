@@ -302,7 +302,7 @@ export default function AboutPage() {
                     <p>Casper, Wyoming 82609 U.S.</p>
                   </div>
                 </div>
-                <div className="flex items-start space-x-3">
+                {/* <div className="flex items-start space-x-3">
                   <Mail className="w-5 h-5 text-[#d9d9d9] mt-0.5 flex-shrink-0" />
                   <div className="text-[#d9d9d9]">
                     <p>info@krafzen.com</p>
@@ -312,7 +312,7 @@ export default function AboutPage() {
                 <div className="flex items-center space-x-3">
                   <Phone className="w-5 h-5 text-[#d9d9d9] flex-shrink-0" />
                   <p className="text-[#d9d9d9]">@</p>
-                </div>
+                </div> */}
               </div>
               <div className="mt-6">
                 <SocialIcons />
